@@ -8,16 +8,18 @@
   </p>
 </div>
 
-YAI Labs builds **governed runtimes**: machines where power is explicit, execution is deterministic, and outcomes are auditable.  
-No demos. No vibes. No folklore. Just systems that can be held accountable.
+YAI Labs builds **governed runtimes**: systems where authority is explicit, behavior is reproducible, and failures are explainable.  
+If a machine can’t tell you *who did what*, *under which constraints*, and *why the outcome happened*—it’s not trustworthy, it’s theater.
+
+No demos. No vibes. No folklore.  
+Just software that can be held accountable under pressure.
 
 **Rule:** if it can’t be audited, it doesn’t ship.
 
 What you’ll find here:
-- runtime engineering (real boundaries, not frameworks)
-- protocol-first architecture
-- governance by contract, not convention
-- tooling that refuses regressions
+- **Runtime engineering** — real boundaries, real isolation, real effects.
+- **Protocol-first architecture** — contracts before code, semantics before features.
+- **Governance by design** — enforcement as a property, not a policy doc.
+- **Tooling that refuses regressions** — deterministic checks, repeatable builds, hard gates.
 
-Current focus: turning “agentic AI” from storytelling into **accountable execution**.
-
+Current focus: turning “agentic AI” from storytelling into **accountable execution**—where actions are constrained, traced, and replayable.
