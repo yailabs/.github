@@ -1,6 +1,6 @@
 <div align="center">
   <img src="yai-labs-logo_512.png" width="220" alt="YAI Labs logo" />
-  <h1>YAI Labs</h1>
+
   <p><strong>We build systems that don’t lie.</strong></p>
   <p>
     Most software runs on hidden authority and vague behavior.<br/>
