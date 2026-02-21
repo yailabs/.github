@@ -66,5 +66,3 @@ We optimize for:
 
 - Security disclosures: follow each repository’s `SECURITY.md`.
 - Contributions: prefer issues/PRs that include reproduction steps, expected behavior, and observable evidence.
-
-Contact: contact@maiomascio.dev
