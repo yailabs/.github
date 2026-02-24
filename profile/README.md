@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="yai-labs-logo_512.png" width="220" alt="YAI Labs logo" />
-</div>
+<p align="center">
+  <img src="./assets/yai-banner.svg" alt="YAI Labs" width="100%" />
+</p>
 
 YAI Labs develops governed runtime infrastructure for accountable execution in AI-enabled systems.
 
