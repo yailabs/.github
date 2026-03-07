@@ -1,7 +1,3 @@
-# YAI Labs
-
-YAI Labs builds governed systems.
-
 We are developing a new systems foundation for control, execution, and cognition — one defined by explicit authority, bounded behavior, and operational proof.
 
 This organization brings together the core assets required to make that foundation real: runtime, law, interfaces, and verification.
