@@ -1,32 +1,38 @@
+# YAI Labs
 
+YAI Labs builds governed systems for control, execution, and cognition.
 
-YAI Labs develops governed runtime infrastructure for accountable execution in AI-enabled systems.
+YAI is a systems platform for environments where authority must be explicit, behavior must be bounded, and operations must remain provable.
 
-The focus is operational reliability: explicit authority, contract-bound behavior, deterministic gates, and audit-grade evidence.
+## The YAI platform
 
-## Scope
+- **YAI (C)** — governed systems, by design.
+- **YAI CLI (C)** — command with authority.
+- **YAI Law** — the source of truth for YAI.
+- **YAI SDK (C)** — build on the YAI core.
+- **YAI Ops** — operate with proof.
 
-This organization maintains:
-- A governed runtime implementation and program documentation
-- A normative contract layer (“law”) defining protocol surfaces, invariants, and compatibility
-- Operator tooling for control-plane interaction
-- Shared automation for standards and verification across repositories
+## What we build
 
-## Principles
+- runtime foundations for control, execution, and cognition
+- canonical law for contracts, constraints, and formal models
+- command and integration surfaces for governed systems
+- operational assets for validation, deployment, and evidence
 
-- **Authority-first execution**: every action is evaluated under an explicit authority context
-- **Contract-bound interfaces**: behavior is constrained by versioned, reviewable contract surfaces
-- **Deterministic gating**: critical transitions and external effects are gated by policy and verification
-- **Audit-grade evidence**: runs produce traces sufficient for reconstruction and review
+## Design posture
+
+- **Authority is explicit**
+- **Behavior is bounded**
+- **Execution is governable**
+- **Evidence is first-class**
+- **Change is deliberate**
 
 ## Status
 
-The ecosystem is under active development.
-- Versions are explicit
-- Compatibility is tracked
-- Upgrades are treated as deliberate operations
+YAI Labs is an active systems program with explicit versioning, tracked compatibility, and repository-level governance.
 
 ## Security and contribution
 
-- Security disclosures are handled per repository via `SECURITY.md`
-- Contributions should include reproduction steps, expected behavior, and observable evidence
+Security guidance lives in each repository’s `SECURITY.md`.
+
+Contributions should be concrete, reproducible, and reviewable.
