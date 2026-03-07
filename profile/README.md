@@ -1,35 +1,28 @@
 # YAI Labs
 
-YAI Labs builds governed systems for control, execution, and cognition.
+YAI Labs builds governed systems.
 
-YAI is a systems platform for environments where authority must be explicit, behavior must be bounded, and operations must remain provable.
+We are developing a new systems foundation for control, execution, and cognition — one defined by explicit authority, bounded behavior, and operational proof.
 
-## The YAI platform
+This organization brings together the core assets required to make that foundation real: runtime, law, interfaces, and verification.
 
-- **YAI (C)** — governed systems, by design.
-- **YAI CLI (C)** — command with authority.
-- **YAI Law** — the source of truth for YAI.
-- **YAI SDK (C)** — build on the YAI core.
-- **YAI Ops** — operate with proof.
+## Focus
 
-## What we build
+- systems foundations
+- canonical rules and formal constraints
+- command and integration surfaces
+- deployment and operational assurance
 
-- runtime foundations for control, execution, and cognition
-- canonical law for contracts, constraints, and formal models
-- command and integration surfaces for governed systems
-- operational assets for validation, deployment, and evidence
-
-## Design posture
+## Operating standard
 
 - **Authority is explicit**
 - **Behavior is bounded**
 - **Execution is governable**
 - **Evidence is first-class**
-- **Change is deliberate**
 
 ## Status
 
-YAI Labs is an active systems program with explicit versioning, tracked compatibility, and repository-level governance.
+YAI Labs is an active systems program with explicit versioning, tracked compatibility, and governed change across repositories.
 
 ## Security and contribution
 
