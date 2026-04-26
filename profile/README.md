@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/yailabs/.github/blob/main/profile/assets/yai.png?raw=true" alt="YAI Labs" width="220" />
-</div>
-
 # YAI Labs
 
 YAI Labs builds infrastructure for accountable intelligent operations.
