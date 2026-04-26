@@ -88,20 +88,6 @@ The goal is not to add governance after software has acted.
 
 The goal is to make governance part of how intelligent systems operate.
 
-## Contribution Standard
-
-Contributions should be concrete, reviewable, and aligned with the repository they affect.
-
-We value work that improves clarity, correctness, reliability, governance, security, traceability, operational usefulness, and long-term maintainability.
-
-Structural changes should preserve coherence and avoid introducing duplicate sources of truth.
-
-## Security
-
-Security guidance is defined in each repository’s `SECURITY.md`.
-
-Responsible reporting, disclosure expectations, and repository-specific security practices should be followed according to the affected project.
-
 ## Direction
 
 YAI Labs is building for a world where intelligent systems must be trusted under pressure.
