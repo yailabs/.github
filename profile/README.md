@@ -88,17 +88,6 @@ The goal is not to add governance after software has acted.
 
 The goal is to make governance part of how intelligent systems operate.
 
-## Repositories
-
-Each repository defines its own local source of truth through its:
-
-- `README.md`
-- `CONTRIBUTING.md`
-- `GOVERNANCE.md`
-- `SECURITY.md`
-
-Repository-specific architecture, command surfaces, contribution rules, and security posture are defined at repository level.
-
 ## Contribution Standard
 
 Contributions should be concrete, reviewable, and aligned with the repository they affect.
