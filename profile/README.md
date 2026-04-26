@@ -1,66 +1,126 @@
+<div align="center">
+  <img src="https://github.com/yailabs/.github/blob/main/profile/assets/yai.png?raw=true" alt="YAI Labs" width="220" />
+</div>
+
 # YAI Labs
 
-YAI Labs builds case-native operational systems for governed intelligence.
+YAI Labs builds infrastructure for accountable intelligent operations.
 
-We work from a simple conviction: the next generation of intelligent systems will require more than raw model capability. They will need explicit authority, bounded execution, evidence-first traceability, and operational structures that make decisions, actions, and limits inspectable rather than implicit.
+We work on the systems required for a world where software, automation, and AI no longer remain passive tools, but participate in decisions, workflows, institutions, and real operational environments.
 
-This organization exists to build that foundation.
+As machines gain the ability to act, the standard changes.
+
+Intelligence alone is not enough.  
+Execution must be governed.  
+Authority must be explicit.  
+Evidence must remain attached.  
+Responsibility must be structurally visible.
+
+YAI Labs exists to build that foundation.
+
+## Mission
+
+Our mission is to make intelligent operations governable.
+
+We build systems where powerful digital actions can be constrained, inspected, reviewed, evidenced, replayed, and improved without losing accountability.
+
+The future of AI will not be defined only by stronger models.
+
+It will be defined by the systems capable of placing intelligence inside operational boundaries that organizations can trust.
 
 ## What We Build
 
-YAI Labs develops systems and infrastructure for:
+YAI Labs develops foundations for:
 
-- governed intelligence
-- case-native execution
-- bounded cognition
-- evidence-first operational traceability
-- explicit authority, review, and enforcement
-- operator and agent surfaces over the same governed runtime model
+- governed execution;
+- accountable AI-assisted operations;
+- case-native operational systems;
+- policy-aware runtime infrastructure;
+- evidence and lineage machinery;
+- authority, review, and enforcement surfaces;
+- operator and agent interfaces over shared operational truth;
+- knowledge systems that preserve context across work.
 
-## Architectural Direction
+Our work sits at the intersection of runtime systems, governance, operational control, AI infrastructure, knowledge continuity, and institutional-grade software.
 
-Our work is guided by a few stable principles.
+## Operating Belief
 
-- **Authority is explicit**
-- **Behavior is bounded**
-- **Execution is governable**
-- **Evidence is first-class**
-- **Lineage remains attached**
-- **Cases organize continuity**
-- **Operators and agents share the same source of truth**
+A system that can act must be able to answer for its actions.
 
-We do not treat intelligence as a detached model response layer. We treat it as part of an operational system that must remain inspectable, governable, and accountable under real execution conditions.
+That means the system must make visible:
 
-## Standard
+- what happened;
+- who or what acted;
+- what was allowed;
+- what boundary applied;
+- what evidence supports the step;
+- what changed;
+- what consequence followed;
+- how the outcome can be inspected or challenged.
 
-The systems we build are expected to make the following things structurally visible:
+This is the standard we build toward.
 
-- who can decide
-- what can execute
-- what evidence supports a step
-- what lineage explains an outcome
-- what boundary contains behavior
-- what continuity preserves context across work
+## Principles
 
-## Status
+YAI Labs is guided by a small set of principles:
 
-YAI is an active systems program building production-oriented foundations for governed intelligence.
+- Power should be explicit.
+- Execution should be governable.
+- Evidence should exist from the beginning.
+- Context should survive across work.
+- Boundaries should be enforced, not assumed.
+- Operators and agents should share the same source of truth.
+- Intelligence should operate inside responsibility, not outside it.
 
-The organization’s work spans runtime architecture, governance machinery, knowledge and evidence handling, operator surfaces, agentic execution, and formal system contracts.
+These principles shape how we design software, evaluate systems, and structure repositories.
+
+## Organization Focus
+
+YAI Labs works across several technical and product areas:
+
+- governed runtime architecture;
+- operational evidence and receipts;
+- policy and authority systems;
+- case-based execution models;
+- review and enforcement workflows;
+- AI/model/provider governance;
+- agent and skill execution boundaries;
+- operational knowledge and lineage;
+- enterprise-grade inspection and audit surfaces.
+
+The goal is not to add governance after software has acted.
+
+The goal is to make governance part of how intelligent systems operate.
 
 ## Repositories
 
-Each repository should make its own source of truth explicit through its local:
+Each repository defines its own local source of truth through its:
 
 - `README.md`
 - `CONTRIBUTING.md`
 - `GOVERNANCE.md`
 - `SECURITY.md`
 
-Repository-specific architecture, command surfaces, and contribution rules are defined at repository level.
+Repository-specific architecture, command surfaces, contribution rules, and security posture are defined at repository level.
 
-## Security and Contribution
+## Contribution Standard
 
-Security guidance lives in each repository’s `SECURITY.md`.
+Contributions should be concrete, reviewable, and aligned with the repository they affect.
 
-Contributions should be concrete, reviewable, and aligned with the architectural standards of the repository they affect.
+We value work that improves clarity, correctness, reliability, governance, security, traceability, operational usefulness, and long-term maintainability.
+
+Structural changes should preserve coherence and avoid introducing duplicate sources of truth.
+
+## Security
+
+Security guidance is defined in each repository’s `SECURITY.md`.
+
+Responsible reporting, disclosure expectations, and repository-specific security practices should be followed according to the affected project.
+
+## Direction
+
+YAI Labs is building for a world where intelligent systems must be trusted under pressure.
+
+Not because they are persuasive.
+
+Because they are bounded, inspectable, evidenced, and accountable.
