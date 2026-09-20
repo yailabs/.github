@@ -7,12 +7,19 @@
 </p>
 
 <p align="center">
-  <strong>Durable semantic state. Case-bound AI execution.</strong><br>
-  Infrastructure for governed AI work that outlives any model.
+  <strong>The work should outlive the model.</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yailabs/yai">YAI</a>
-  ·
-  <a href="https://github.com/yailabs/yvex">YVEX</a>
-</p>
+YAI builds systems infrastructure for AI work that must remain durable,
+governed and inspectable across sessions, models and teams.
+
+At the center is the **Case**: a continuous record of history, evidence,
+authority, resources, decisions and consequences. Models contribute
+computation; they do not own the work.
+
+### Projects
+
+- **[YAI](https://github.com/yailabs/yai)** — the Case-centered control plane
+  for memory, governance, workflows and mediated access to resources.
+- **[YVEX](https://github.com/yailabs/yvex)** — the model-execution substrate
+  and research path for persistent computational state.
