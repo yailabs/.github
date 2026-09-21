@@ -16,9 +16,3 @@
   continuity above the model, authority outside the prompt,<br>
   and a record that endures.
 </p>
-
-<p align="center">
-  <a href="https://github.com/yailabs/yai"><strong>YAI</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/yailabs/yvex"><strong>YVEX</strong></a>
-</p>
